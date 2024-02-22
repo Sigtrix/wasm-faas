@@ -2,7 +2,7 @@
 
 ## Overview
 
-An WebAssembly Function as a Service (FaaS) implemented as an HTTP server.
+A WebAssembly Function as a Service (FaaS) implemented as an HTTP server.
 The service allows users to register wasm modules compiled from any supported programming language
 as functions on the server. These functions can then be invoked on behalf of a client via HTTP requests.
 
